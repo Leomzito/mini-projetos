@@ -1,0 +1,32 @@
+1 - Crie um programa que use um laço while para
+imprimir todos os números de 1 a 10, um por linha.
+
+
+2 - Escreva um programa que peça ao usuário para
+adivinhar um número secreto (que você pode definir como 7, por
+exemplo). O programa deve continuar pedindo um número até
+que o usuário acerte. Quando acertar, exiba "Parabéns, você
+acertou!".
+
+
+3 - Desenvolva um programa que leia 5 notas de um aluno (uma por
+vez, dentro de um laço) e, no final, calcule e exiba a média das
+notas. Utilize um contador e um acumulador.
+
+
+4 - Crie um programa que exiba um menu com as opções: 1- Somar,
+2- Subtrair, 0- Sair. O programa deve permitir que o usuário
+escolha uma opção, realize a operação (lendo dois números) e
+exiba o resultado. O menu deve ser exibido novamente até que o
+usuário digite 0.
+
+
+5 - Faça um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer
+continuar. No final, mostre:
+A) Quantas pessoas têm mais de 18 anos.
+B) Quantos homens foram cadastrados.
+C) Quantas mulheres têm menos de 20 anos.
+
+
+6 - Elabore um programa que simule a contagem regressiva para o lançamento de um foguete. O programa deve pedir um número inicial ao usuário
+e então contar de forma decrescente até 0, mostrando "FOGO!" no final.

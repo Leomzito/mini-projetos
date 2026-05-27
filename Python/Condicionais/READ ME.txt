@@ -1,0 +1,36 @@
+1 - Escreva um programa que peça um número ao usuário e, se o
+número for positivo, exiba a mensagem "O número é positivo.".
+
+
+2 - Crie um programa que leia um número inteiro e diga se ele é par
+ou ímpar. (Dica: um número é par se o resto da sua divisão por 2
+for 0).
+
+
+3 - Desenvolva um programa que simule um sistema de login. Ele
+deve pedir um nome de usuário e uma senha. Se o usuário for
+"admin" e a senha for "python123", exiba "Login bem-sucedido!".
+Caso contrário, exiba "Usuário ou senha incorretos.".
+
+
+4 - Faça um programa que pergunte a idade do usuário. Se ele tiver
+menos de 16 anos, informe que ele "Não pode votar". Se tiver
+entre 16 e 17 anos ou mais de 70, informe que o "Voto é
+facultativo". Se tiver entre 18 e 70 (inclusive), informe que o "Voto
+é obrigatório".
+
+
+5 - Crie um programa para uma loja de tintas. O programa deverá pedir o tamanho em
+metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1
+litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que
+custam R$ 80,00. Informe ao usuário a quantidade de latas de tinta a serem
+compradas e o preço total. (Dica: use math.ceil para arredondar para cima).
+
+
+6 - Elabore uma calculadora de IMC (Índice de Massa Corporal). O programa deve ler o peso (em kg) e a altura (em metros) do usuário. Após
+calcular o IMC (IMC = peso / altura2), o programa deve exibir a classificação do usuário:
+Abaixo de 18.5: Abaixo do Peso
+Entre 18.5 e 24.9: Peso Ideal
+Entre 25.0 e 29.9: Sobrepeso
+Entre 30.0 e 39.9: Obesidade
+Acima de 40.0: Obesidade Grave

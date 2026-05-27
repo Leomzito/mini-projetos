@@ -1,0 +1,28 @@
+1 - Crie um programa que declare uma variável com o nome de sua
+cidade e depois exiba a mensagem: "Eu moro em [Nome da
+Cidade]".
+
+
+2 - Escreva um programa que pergunte o nome e o sobrenome do
+usuário e depois exiba a mensagem de boas-vindas: "Olá, [Nome]
+[Sobrenome]!".
+
+
+3 - Desenvolva um programa que leia dois números inteiros, calcule a
+soma entre eles e exiba o resultado.
+
+
+4 - Crie um programa que leia o preço de um produto e um
+percentual de desconto. Calcule e exiba o valor do desconto e o
+novo preço do produto.
+
+
+5 - Faça um programa que leia o nome de uma pessoa e exiba a
+primeira letra do seu nome e a quantidade de caracteres que o
+nome possui.
+(Dica: use len() para tamanho e nome[0] para o primeiro
+caractere).
+
+
+6 - Elabore um programa que leia as duas notas de um aluno (N1 e
+N2) e calcule a sua média. Exiba o resultado final.
