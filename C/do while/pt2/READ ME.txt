@@ -1,0 +1,5 @@
+1) Crie um programa que some os salários dos colaboradores de uma empresa. 
+O programa encerra quando o usuario digita um salário menor que zero.
+
+
+2) Mostre os 20 primeiros números impares de 1 a 20.

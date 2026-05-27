@@ -1,0 +1,25 @@
+1 - Escreva um programa que solicite ao usuário uma senha. O
+programa deve continuar pedindo a senha até que o usuário
+digite a senha correta ("1234"). Utilize a função strcmp para
+comparar as strings.
+
+
+2 - Desenvolva um programa que leia o nome e a idade de 5 pessoas
+usando um laço for e, ao final, informe o nome da pessoa mais
+velha.
+
+
+3 - Crie um programa que leia uma palavra e a imprima de trás para
+frente. (Dica: use strlen e um laço for decrescente).
+
+
+4 - Faça um programa que leia um nome de usuário e crie um e-mail
+padrão no formato nome.sobrenome@dominio.com. O programa
+deve ler o primeiro nome e o sobrenome separadamente e depois
+concatená-los.
+
+
+5 - Elabore um programa que simule um sistema de login simples. Ele
+deve solicitar um nome de usuário e uma senha. Se o usuário for
+"admin" e a senha for "admin123", exiba "Login bem-sucedido!".
+Caso contrário, exiba "Usuário ou senha inválidos!".

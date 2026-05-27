@@ -1,0 +1,6 @@
+1) calcular a raiz quadrada de numero nao negativo
+
+
+2) Faca um programa para receber a idade de 5 pessoas exibindo ao seu final a media das idades.
+
+

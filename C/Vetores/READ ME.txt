@@ -1,0 +1,16 @@
+1 - Crie um programa que declare um vetor de 5 posições do tipo int, preencha-o com valores lidos do teclado e, em seguida, exiba todos os
+valores na tela.
+
+
+2 - Escreva um programa que leia 10 valores reais para um vetor e, ao final, exiba qual é o maior e o menor valor digitado.
+
+
+3 - Crie uma função chamada calcularMedia que receba como parâmetros um vetor de float e o seu tamanho. A função deve retornar a média
+dos valores do vetor. No main, leia 4 notas, chame a função e exiba o resultado.
+
+
+4 - Desenvolva um programa que leia uma matriz 3x3 de inteiros e, ao final, exiba a soma de todos os seus elementos.
+
+
+5 - Crie uma função void exibirMenu() que não receba parâmetros nem retorne valor, apenas imprima um menu de opções na tela (ex: 1.
+Cadastrar, 2. Listar, 3. Sair). No main, chame esta função.
