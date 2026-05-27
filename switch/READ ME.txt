@@ -1,0 +1,17 @@
+Desenvolva um programa que receba dois números e
+execute as operações a seguir, de acordo com a escolha do usuário.
+
+1) Média aritmética entre dois números
+2) Diferença do maior pelo menor número
+3) Produto entre os números digitados
+4) Divisão do primeiro pelo segundo
+
+Se a opção for inválida, o programa deve mostrar
+uma mensagem de erro e encerrar a sua execução. Lembre-se de que, na opção
+número 4, o segundo número deve ser diferente de zero.
+
+
+Digite um valor de 1 a 7. 
+O sistema irá imprimir o dia da semana correspondente ao valor.
+Se a opção for inválida, o programa ira mostrar a mensagem
+"Valor invalido"
