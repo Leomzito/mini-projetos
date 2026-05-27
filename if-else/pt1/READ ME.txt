@@ -1,8 +1,0 @@
-1.Dados dois números inteiros A e B
-distintos, some 100 ao maior número e imprima.
-
-
-2.Álcool ou gasolina?  Faça um programa para descobrir se o álcool é
-vantajoso ou não em relação à gasolina. O cálculo é dividir o preço do litro do
-álcool pelo da gasolina. Se o resultado for inferior a 0,7, use álcool. Se for
-maior que 0,7, então a gasolina é melhor.
